@@ -1,0 +1,5 @@
+The manager uses MySQL. Hence MySQL Workbench should be installed along with all the required credentials.
+Create a database named Task_manager and create tables User, Tasks and History in the database. This will create Preliminary skeleton of data.
+User has 3 columns named - id, username, password
+Tasks has 4 colums named - id, title, due_date, priority_Level
+History has 4 columns named  - id, title, Completion_status, Completion_date
