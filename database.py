@@ -1,0 +1,1 @@
+data = ('localhost','root','SQLakash','task_manager')
