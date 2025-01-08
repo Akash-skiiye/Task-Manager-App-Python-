@@ -1,7 +1,7 @@
 from tkinter import *
 from tkinter import messagebox ,ttk
 from tkcalendar import DateEntry
-from database import data
+from database import data # This File contains the necessary parameters for MySQL connection
 import datetime
 import mysql.connector
 
